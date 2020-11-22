@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    background: #213764;
+}
+
+p {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+
+address{
+    color: white;
+}
+h2 {
+    color: #00ff00;
+}
+.connect {
+    color: rgb(221, 25, 25);
+}
+u {
+    padding-right: 30px;
+}
+h1 {
+    color: white;
+}
